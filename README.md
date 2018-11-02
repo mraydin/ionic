@@ -14,3 +14,25 @@ https://stackoverflow.com/questions/34733740/ios-deploy-not-found-under-os-x-el-
 
 <h1>Monitor the core temperature of your Raspberry Pi.</h1>
 https://medium.com/exploring-code/monitor-the-core-temperature-of-your-raspberry-pi-3ddfdf82989f</ br>
+
+<h1>Testing your app</h1>
+https://ionicframework.com/docs/v1/guide/testing.html</ br>
+
+<h1>How to recursively change sharing/permission of a folder in Mac OS X</h1>
+chmod -R +rw mydir </br>
+For more information:</br>
+man chmod</br>
+
+<h1>cannot install node-sass therefore cannot install gulp-sass</h1>
+sudo rm -rf node_modules && npm rebuild node-sass && npm i </ br>
+
+sudo npm cache clean -f </br>
+sudo npm install -g n </br>
+sudo n stable </br>
+npm rebuild node-sass</br>
+
+
+
+     
+
+
